@@ -3,6 +3,18 @@
  * 
  * public class Etapas { Para la proxima semana tiene que estar la etapa 3
  * completa. Les paso los detalles de cada etapa: 
+ * Etapa 0: 
+ * 
+**Checklist de lo que tienen que preparar antes de empezar:**
+- Crear un validador para cada tipo de dato principal (String, double e int).
+- Definir el nombre de su framework.
+- Crear una interfaz Comunicador con su implementación para funcionar por consola.
+- Definir un protocolo (con qué formato van a llegar los mensajes
+ para determinar qué va a hacer la aplicación).
+- Crear un parser capaz de transformar el mensaje (String)
+ en un objeto que ordene la intención del mensaje
+ (separando recurso, acción y parámetros).
+ * 
  * Etapa 1:
  * 
  * - Creación de objeto sesión implementando un Runnable - Manejo de varios
